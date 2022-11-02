@@ -1,0 +1,4 @@
+document_id,document_path,Document_type,Name,Version,Publish_dt,Effective_dt,Review_dt,Publisher,Reviewe_name,Domination_of_control_geography,Domination_of_control_bussiness,Domination_of_control_technology_func,Scope_deploy_id,Scope_technique_id,Appli_deploy_id,Appli_technique_id,Appli_technique_id
+1,C:/desktop,ISO,Xyz,1.1,02/04/2022,03/06/2022,04/07/2022,India gov,Raj,India,xyz,xyz,12,13,14,15,9
+2,d:/home/data,MAS TRM,pqr st,3.2,11/30/2021,01/04/2022,03/31/2022,Singapore,darvin,Singapore,qwe,cdd,13,34,32,16,22
+3,e:/user/local,GDPR,ga sc,4.1,06/30/2021,12/1/2021,12/30/2021,USA,jorg,USA,scs,scc,4,5,9,20,12

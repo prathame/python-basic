@@ -1,0 +1,3 @@
+statement_type,doc_type,document_section_level_1,document_section_level_2,statement_parent_id,statement_id,statement_words,fulfilled_practise,prac_id,act_id,scope_technique_id,scope_deploy_id,appli_technique_id,appli_deploy_id
+ISO,ISO,1.3,1.4,4.1,432,Threat ,yes,34,2,1,3,8,1
+MAS TRM,MAS TRM,1.6,2.7,4.8,342,Network,no,21,3,3,6,1,7.1
